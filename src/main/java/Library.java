@@ -19,4 +19,8 @@ public class Library {
     public int getBookCount() {
         return books.size();
     }
+
+    public Book removeBook() {
+        return books.remove(0);
+    }
 }
