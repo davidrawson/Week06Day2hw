@@ -29,7 +29,6 @@ public class BorrowerTest {
         assertEquals(2, borrower.getBookCount());
     }
 
-
 }
 
 
